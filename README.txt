@@ -1,0 +1,1 @@
+The OffShelf Ranking Model was created in order to rank grocery products for future profitability when merchandised in a certain area of the grocery store. The model is able to make generalized predictions based on certain attributes of that product. The model does not take into account interactions among products merchandised together simultaneously.
