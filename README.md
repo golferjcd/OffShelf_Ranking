@@ -7,7 +7,7 @@
 3.	Ranking analysis is done on a regular cadence, 8 weeks prior to in-store sales dates
 # Success Metrics
 #### There are two metrics that predicate a successful Off Shelf promotion: Performance and Lift. Performance is defined as total dollar sales – returns – COGS + any type of supplier funding. Lift is defined as Off shelf promo placement performance –  median regular promo placement performance/median regular promo placement performance.  Data points with above average quantities in these two metrics were labeled “0” for success, all other data points were labeled “1” for failure. 
-![alt text](https://github.com/golferjcd/OffShelf_Ranking/data/OS_Metrics.png)
+![alt text](https://github.com/golferjcd/OffShelf_Ranking/blob/master/data/OS_Metrics.png)
 # Features
 #### The following features proved the most meaningful to this analysis
 1.	Stores selling (numeric) – how many stores were selling the product at a given time
@@ -18,9 +18,9 @@
 6.	Change in ARP (numeric) – the difference between first average retail price and average retail price at the time of analysis
 All numeric features were normalized using min/max normalization on a [0,1] scale
 # Model Performance
-####Accuracy: 89.08%
+Accuracy: 89.08%
 Sensitivity: 0.76
 Specificity: 0.93
 F1: 0.74
 Kappa: 0.67
-![alt text](https://github.com/golferjcd/OffShelf_Ranking/data/ROC_Plot.png)
+![alt text](https://github.com/golferjcd/OffShelf_Ranking/blob/master/data/ROC_Plot.png)
