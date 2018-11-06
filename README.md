@@ -18,9 +18,9 @@
 6.	Change in ARP (numeric) – the difference between first average retail price and average retail price at the time of analysis
 All numeric features were normalized using min/max normalization on a [0,1] scale
 # Model Performance
-Accuracy: 89.08%
-Sensitivity: 0.76
-Specificity: 0.93
-F1: 0.74
-Kappa: 0.67
+Accuracy: 89.08%  Sensitivity: 0.76  Specificity: 0.93  F1: 0.74  Kappa: 0.67
+
+
+
+
 ![alt text](https://github.com/golferjcd/OffShelf_Ranking/blob/master/data/ROC_Plot.png)
